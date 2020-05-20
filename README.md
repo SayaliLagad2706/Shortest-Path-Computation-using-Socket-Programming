@@ -6,7 +6,9 @@
 - Dijkstra’s algorithm is implemented by Server C to determine the shortest path cost and thus the least propagation and transmission delay for transmitting a file from one host to another
 - The result is the optimal routing path and a detailed calculation of delays displayed on the client terminal
 - Refer to project_description.pdf for detailed explanation of the system to be built
-- Technologies Used:
+
+Technologies Used:
+  -
   - Socket Programming
   - TCP and UDP sockets
   - Environment: UNIX
